@@ -21,11 +21,11 @@ Busco sempre aprimorar meus conhecimentos na área de tecnologia, no desenvolvim
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFAA)
-![C](https://icons8.com.br/icon/40670/c-programming)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 ### <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"> Frontend 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFA
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFA)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00)
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Ferramentas de Desenvolvimento
 ![GIT](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00)
@@ -39,4 +39,4 @@ Busco sempre aprimorar meus conhecimentos na área de tecnologia, no desenvolvim
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatísticas do GitHub
 ![Estatísticas de Davi Marques no GitHub](https://github-readme-stats.vercel.app/api?username=davimrqss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davimrqss0&layout=compact&langs_count=8&theme=dracula&cache_bust=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davimrqss&layout=compact&langs_count=8&theme=dracula&cache_bust=true)

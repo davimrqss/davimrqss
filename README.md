@@ -1,6 +1,6 @@
 # Davi Marques dos Santos
 
-> Estudante Ciência da Computação
+> Estudante de Ciência da Computação
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre mim
 Sou **estudante de Ciência da Computação** pela Faculdade de Petrolina (FACAPE). Tenho um grande interesse em websites e aplicações web/desktop.
@@ -11,7 +11,7 @@ Busco sempre aprimorar meus conhecimentos na área de tecnologia, no desenvolvim
 
 **Áreas de Interesse:** Desenvolvimento web, Automação e Aplicações Desktop.
 **Estudando atualmente:** 
-  - <img src="https://cdn1.iconfinder.com/data/icons/creative-design-honey-vol-2/64/WEB_DESIGN-512.png" widht="25"> **Frontend Design:** Aprofundando em HTML, Javascript e CSS.
+  - <img src="https://cdn1.iconfinder.com/data/icons/creative-design-honey-vol-2/64/WEB_DESIGN-512.png" width="25"> **Frontend Design:** Aprofundando em HTML, Javascript e CSS.
   - 🤖 **Automação de dados:** Explorando ferramentas como Python.
 
 ---
@@ -21,7 +21,7 @@ Busco sempre aprimorar meus conhecimentos na área de tecnologia, no desenvolvim
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFAA)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00FFAA)
 
 ### <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"> Frontend 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFA)
